@@ -7,4 +7,12 @@
 
 ## credits
 
-- image for the hero section goes to Photo by Tim Mossholder on Unsplash
+- image for the hero Photo by Tim Mossholder on Unsplash
+
+- forrest trail in info Photo by Sharissa Johnson on Unsplash
+
+- open field in info Photo by ON MY BLUE JEANS on Unsplash
+
+- mountains in the info Photo by Mark West on Unsplash
+
+- climb mountains in the info Photo by Tyler Reynolds on Unsplash

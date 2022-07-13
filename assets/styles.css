@@ -61,3 +61,46 @@
   border: none;
 }
 /* end of the hero section */
+
+/* start of the main section ==========================================*/
+
+/* main about section ------------------------*/
+.main--about {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.main--about h2 {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+}
+/* info card section */
+.about--info__cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.info__card {
+  max-width: 150px;
+}
+.info__card--image {
+  width: 100px;
+  height: 100px;
+  border: 2px solid #3882f6;
+  border-radius: 5px;
+}
+/* end info card section */
+
+/* end main about --------------------------- */
+
+/* end of the main section =============================================*/
