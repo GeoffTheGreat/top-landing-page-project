@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: "Roboto";
 }
 /* styling the header section generally also some footer styles*/
 .header,
@@ -102,5 +103,27 @@
 /* end info card section */
 
 /* end main about --------------------------- */
+
+/* start of main why section ******************************* */
+
+.main--why {
+  background-color: #e5e7eb;
+  color: #1f2937;
+  font-size: 36px;
+}
+.why__content {
+  width: 80%;
+  margin: 20px auto;
+  padding: 30px;
+}
+.why__content--quote {
+  font-weight: lighter;
+  font-style: italic;
+}
+.why__content h3 {
+  text-align: right;
+}
+
+/* end main why section ************************************* */
 
 /* end of the main section =============================================*/
