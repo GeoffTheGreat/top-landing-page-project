@@ -16,3 +16,6 @@
 - mountains in the info Photo by Mark West on Unsplash
 
 - climb mountains in the info Photo by Tyler Reynolds on Unsplash
+
+## PS
+ github is having some trouble with loading my atylesheet on the live preview
