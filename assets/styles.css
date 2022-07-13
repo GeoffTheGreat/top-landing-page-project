@@ -2,8 +2,9 @@
   margin: 0;
   padding: 0;
 }
-/* styling the header section generally */
-.header {
+/* styling the header section generally also some footer styles*/
+.header,
+.footer {
   background-color: #1f2937;
   color: #f9faf8;
 }
@@ -35,4 +36,28 @@
 /* end of the header--bar styling */
 
 /* start of the hero section */
+.hero {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  padding: 50px;
+  gap: 20px;
+}
+.hero__img {
+  width: 40vw;
+  height: 200px;
+  object-fit: cover;
+}
+.hero--text h1 {
+  font-size: 48px;
+  font-weight: bolder;
+}
+.hero__button {
+  margin-top: 10px;
+  padding: 4px 10px;
+  color: #f9faf8;
+  background-color: #3882f6;
+  border-radius: 5px;
+  border: none;
+}
 /* end of the hero section */
